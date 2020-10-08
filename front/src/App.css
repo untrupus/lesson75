@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  width: 600px;
+  margin: 30px auto;
+
+}
+
+.inputDescription {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  align-items: center;
+}
+
+.field {
+  flex-grow: 1;
+  margin-left: 30px;
+  padding: 10px;
+}
+
+.btn {
+  margin-left: 20px;
+  padding: 9px;
+  font-weight: bold;
+}
